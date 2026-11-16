@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# Large / generated files
+data/raw/*.csv
+data/processed/*.npz
+models/*.keras
+models/*.h5
+.DS_Store
